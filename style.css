@@ -2,9 +2,26 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    background-color: #000;
 }
 
-.wrapper{
-    color: #fff;
+.wrapper {
+    background-color:rgb(250, 245, 245);
+    min-height: 100vh;
+}
+
+li{
+    margin-bottom: 0.3rem;
+    
+}
+
+i{
+    background-color: rgb(187, 175, 198);
+    width: 30px;
+    height: 30px;
+    padding: 4px;
+    padding-top: 8px;
+    border-radius: 50%;
+    text-align: center;
+    margin-right: 8px;
+    margin-bottom: 0.3rem;
 }
